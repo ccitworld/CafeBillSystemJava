@@ -6,11 +6,10 @@ public class CafeBillSystem {
         int teaPrice = 30, coffeePrice = 40, milkPrice = 50;
         int teaQty = 0, coffeeQty = 0, milkQty = 0;
         int choice;
-        
-        do {
             System.out.println("----------------------");
             System.out.println("        Cafe Menu");
-            System.out.println("----------------------");
+            System.out.println("----------------------");        
+        do {
             System.out.println("1: Tea");
             System.out.println("2: Coffee");
             System.out.println("3: Milk");
