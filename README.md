@@ -101,3 +101,9 @@ I've saved the provided code in a file for you. You can download it, and then fo
     4: Bill
     Enter Choice: 4
     Bill Amount: 170
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/ccitworld/CafeBillSystemJava/blob/main/How%20to%20run.png?raw=true)
+
